@@ -148,7 +148,7 @@
     "jsonschema": "1.4.1",
     "jsonwebtoken": "catalog:",
     "ldapts": "4.2.6",
-    "lodash": "catalog:",
+    "lodash": "4.17.23",
     "luxon": "catalog:",
     "mysql2": "catalog:",
     "n8n-core": "workspace:*",
