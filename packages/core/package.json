@@ -51,7 +51,7 @@
     "@sentry/node": "catalog:sentry",
     "@sentry/node-native": "catalog:sentry",
     "@sentry/profiling-node": "catalog:sentry",
-    "axios": "catalog:",
+    "axios": "1.13.5",
     "callsites": "catalog:",
     "chardet": "2.0.0",
     "cron": "4.4.0",
