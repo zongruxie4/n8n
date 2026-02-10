@@ -120,7 +120,7 @@
     "@n8n_io/ai-assistant-sdk": "catalog:",
     "@n8n_io/license-sdk": "2.25.0",
     "@parcel/watcher": "^2.5.1",
-    "@rudderstack/rudder-sdk-node": "3.0.0",
+    "@rudderstack/rudder-sdk-node": "3.0.2",
     "@sentry/node": "catalog:sentry",
     "aws4": "1.11.0",
     "axios": "catalog:",
