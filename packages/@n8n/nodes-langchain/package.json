@@ -212,7 +212,7 @@
     "@langchain/anthropic": "catalog:",
     "@langchain/aws": "1.0.3",
     "@langchain/cohere": "1.0.1",
-    "@langchain/community": "catalog:",
+    "@langchain/community": "1.1.18",
     "@langchain/core": "catalog:",
     "@langchain/google-genai": "2.1.10",
     "@langchain/google-vertexai": "2.1.10",
