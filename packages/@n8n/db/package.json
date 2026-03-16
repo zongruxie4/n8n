@@ -32,7 +32,7 @@
     "@n8n/utils": "workspace:*",
     "@n8n/typeorm": "catalog:",
     "class-validator": "0.14.0",
-    "flatted": "catalog:",
+    "flatted": "3.4.0",
     "lodash": "catalog:",
     "n8n-core": "workspace:*",
     "n8n-workflow": "workspace:*",
