@@ -145,7 +145,7 @@
     "express-rate-limit": "7.5.0",
     "fast-glob": "catalog:",
     "flat": "5.0.2",
-    "flatted": "catalog:",
+    "flatted": "3.4.2",
     "formidable": "3.5.4",
     "handlebars": "4.7.8",
     "helmet": "8.1.0",
