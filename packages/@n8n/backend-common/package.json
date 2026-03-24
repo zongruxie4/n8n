@@ -27,7 +27,7 @@
     "@n8n/decorators": "workspace:*",
     "@n8n/di": "workspace:*",
     "callsites": "catalog:",
-    "flatted": "catalog:",
+    "flatted": "3.4.2",
     "n8n-workflow": "workspace:*",
     "stream-json": "catalog:",
     "picocolors": "catalog:",
