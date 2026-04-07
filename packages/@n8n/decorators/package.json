@@ -33,7 +33,7 @@
     "@n8n/constants": "workspace:*",
     "@n8n/di": "workspace:*",
     "@n8n/permissions": "workspace:*",
-    "lodash": "catalog:",
+    "lodash": "4.18.1",
     "n8n-workflow": "workspace:*"
   }
 }
