@@ -204,7 +204,7 @@
     "xml2js": "catalog:",
     "xmllint-wasm": "3.0.1",
     "xss": "catalog:",
-    "yaml": "catalog:",
+    "yaml": "2.8.3",
     "yargs-parser": "21.1.1",
     "zod": "catalog:"
   }
