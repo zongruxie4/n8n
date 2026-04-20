@@ -279,7 +279,7 @@
     "jsdom": "23.0.1",
     "langchain": "catalog:",
     "@langchain/classic": "1.0.5",
-    "lodash": "catalog:",
+    "lodash": "4.17.23",
     "mammoth": "1.11.0",
     "mime-types": "catalog:",
     "mongodb": "^6.17.0",
