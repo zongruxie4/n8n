@@ -40,7 +40,7 @@
     "@vueuse/core": "catalog:frontend",
     "highlight.js": "catalog:frontend",
     "markdown-it-link-attributes": "^4.0.1",
-    "uuid": "catalog:",
+    "uuid": "14.0.0",
     "vue": "catalog:frontend",
     "vue-markdown-render": "catalog:frontend"
   },
