@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "3.808.0",
-    "@langchain/core": "catalog:",
+    "@langchain/core": "1.1.42",
     "@n8n/backend-common": "workspace:*",
     "@n8n/client-oauth2": "workspace:*",
     "@n8n/config": "workspace:*",
@@ -55,7 +55,7 @@
     "@sentry/node": "catalog:sentry",
     "@sentry/node-native": "catalog:sentry",
     "@sentry/profiling-node": "catalog:sentry",
-    "axios": "catalog:",
+    "axios": "1.15.2",
     "callsites": "catalog:",
     "chardet": "2.0.0",
     "cron": "4.4.0",
