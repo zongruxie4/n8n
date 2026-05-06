@@ -264,7 +264,7 @@
     "@n8n/json-schema-to-zod": "workspace:*",
     "@n8n/typeorm": "catalog:",
     "@n8n/typescript-config": "workspace:*",
-    "vm2": "catalog:",
+    "vm2": "3.11.0",
     "@pinecone-database/pinecone": "^5.0.2",
     "@qdrant/js-client-rest": "^1.16.2",
     "@supabase/supabase-js": "2.49.9",
