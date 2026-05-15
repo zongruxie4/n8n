@@ -70,7 +70,7 @@
     "csv-parse": "6.2.1",
     "jsdom": "23.0.1",
     "langchain": "catalog:",
-    "langsmith": "^0.4.6",
+    "langsmith": "^0.6.0",
     "lodash": "catalog:",
     "n8n-workflow": "workspace:*",
     "picocolors": "catalog:",
