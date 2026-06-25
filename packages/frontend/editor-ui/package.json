@@ -90,7 +90,7 @@
     "katex": "0.16.27",
     "lodash": "catalog:",
     "luxon": "catalog:",
-    "markdown-it": "catalog:",
+    "markdown-it": "14.2.0",
     "markdown-it-footnote": "^4.0.0",
     "n8n-workflow": "workspace:*",
     "nanoid": "catalog:",
