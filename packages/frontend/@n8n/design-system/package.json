@@ -83,7 +83,7 @@
     "highlight.js": "catalog:frontend",
     "is-emoji-supported": "^0.0.5",
     "lodash": "catalog:",
-    "markdown-it": "catalog:",
+    "markdown-it": "14.0.0",
     "markdown-it-emoji": "^2.0.2",
     "markdown-it-link-attributes": "catalog:",
     "markdown-it-task-lists": "^2.1.1",
