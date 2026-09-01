@@ -81,7 +81,7 @@
     "picocolors": "catalog:",
     "p-limit": "catalog:",
     "turndown": "catalog:",
-    "undici": "catalog:undici-v6",
+    "undici": "6.27.0",
     "uuid": "catalog:",
     "zod": "catalog:"
   },
