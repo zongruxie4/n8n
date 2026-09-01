@@ -41,7 +41,7 @@
     "@n8n/utils": "workspace:*",
     "@n8n/typeorm": "workspace:*",
     "class-validator": "0.14.0",
-    "flatted": "catalog:",
+    "flatted": "3.4.2",
     "lodash": "catalog:",
     "n8n-core": "workspace:*",
     "n8n-workflow": "workspace:*",
