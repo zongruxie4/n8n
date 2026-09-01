@@ -1012,7 +1012,7 @@
     "sanitize-html": "catalog:",
     "semver": "catalog:",
     "showdown": "2.1.0",
-    "simple-git": "catalog:",
+    "simple-git": "3.36.0",
     "snowflake-sdk": "2.1.0",
     "ssh2-sftp-client": "12.1.0",
     "tar": "catalog:",
