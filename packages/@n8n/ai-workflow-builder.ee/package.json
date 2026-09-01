@@ -56,7 +56,7 @@
     }
   },
   "dependencies": {
-    "@langchain/anthropic": "catalog:",
+    "@langchain/anthropic": "1.3.29",
     "@langchain/core": "catalog:",
     "@langchain/langgraph": "catalog:",
     "@langchain/langgraph-checkpoint": "catalog:",
