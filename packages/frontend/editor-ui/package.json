@@ -117,7 +117,7 @@
     "vue-component-type-helpers": "^2.2.10",
     "vue-i18n": "catalog:frontend",
     "vue-json-pretty": "2.6.0",
-    "vue-markdown-render": "catalog:frontend",
+    "vue-markdown-render": "2.3.0",
     "vue-router": "catalog:frontend",
     "vue-virtual-scroller": "2.0.0-beta.8",
     "vue3-touch-events": "^4.1.3",
