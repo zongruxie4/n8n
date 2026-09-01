@@ -61,7 +61,7 @@
     "picocolors": "catalog:",
     "prettier": "catalog:",
     "prompts": "^2.4.2",
-    "rimraf": "catalog:",
+    "rimraf": "6.1.1",
     "ts-morph": "catalog:",
     "typescript-eslint": "^8.35.0"
   },
