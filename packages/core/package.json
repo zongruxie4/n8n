@@ -81,7 +81,7 @@
     "form-data": "catalog:",
     "htmlparser2": "^10.0.0",
     "jsonwebtoken": "catalog:",
-    "lodash": "catalog:",
+    "lodash": "4.17.23",
     "luxon": "catalog:",
     "mime-types": "catalog:",
     "ms": "catalog:",
