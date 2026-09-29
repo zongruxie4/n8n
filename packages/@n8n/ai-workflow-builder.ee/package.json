@@ -71,7 +71,7 @@
     "@n8n/utils": "workspace:*",
     "@n8n/workflow-sdk": "workspace:*",
     "@n8n_io/ai-assistant-sdk": "catalog:",
-    "axios": "catalog:",
+    "axios": "1.20.0",
     "csv-parse": "catalog:",
     "jsdom": "catalog:",
     "langchain": "catalog:",
